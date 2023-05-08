@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian Kamau
 - 👀 I’m interested in both frontend and backend development
-- 🌱 I’m currently learning react, ruby on rails and mysql
+- 🌱 I’m currently learning Typescript
 - 📫 You can reach me via kian99564@gmail.com
 
 <br/>
