@@ -2,6 +2,7 @@
 - 👀 I’m interested in both frontend and backend development
 - 🌱 I’m currently learning Typescript
 - 📫 You can reach me via kian99564@gmail.com
+- My Portfolio https://portfolio-iank-code.vercel.app/
 
 <br/>
 <br/>
