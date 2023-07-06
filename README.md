@@ -20,8 +20,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="70px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="70px"/>
   
-  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="70px"/>
-<!--   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="70px"/> -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJZapRa_6_00fBbSh0kY-kgPVHkIXR7NNCwEKYc-FNAbZ0ioSHiS3-vLrEFQ3ESm_Kyw&usqp=CAU" width="70px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="70px"/>
 <!--   <img src="" width="70px"/>
   <img src="" width="70px"/>
   <img src="" width="70px"/>
