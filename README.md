@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian Kamau
 - ❤️ In love with Ruby on Rails
-- 🌱 I’m currently learning Node js and Nest js
+- 🌱 I’m currently learning Node js microservices
 - 📫 You can reach me via kian99564@gmail.com
 - My Portfolio https://portfolio-iank-code.vercel.app/ 
 
